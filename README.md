@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Expressões Condicionais Ternárias em Java
 
 ## O que são?
@@ -82,3 +83,6 @@ System.out.println(intervalo); // Saída: Dentro do intervalo
 
 ## Conclusão
 As expressões condicionais ternárias são ferramentas poderosas quando usadas corretamente. Elas tornam o código mais conciso e expressivo, mas devem ser aplicadas com cautela para evitar impactos na legibilidade e manutenção. Como sempre, escolha a abordagem que melhor equilibre clareza e eficiência para o seu caso de uso.
+=======
+# ExpressoesCondTernarias
+>>>>>>> b6691cbea96924528de01174265af0d59a9a8059
